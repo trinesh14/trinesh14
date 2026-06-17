@@ -1,7 +1,7 @@
 # Hi 👋, I'm Trinesh Kumar  
 
 🚀 Backend Developer | Java • Python • Node.js  
-💼 3+ Years Experience | Microservices | Scalable Systems  
+💼 4+ Years Experience | Microservices | Scalable Systems  
 
 ---
 
